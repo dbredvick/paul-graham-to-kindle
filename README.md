@@ -10,7 +10,7 @@ Then run the script:
 
     `npm i && npm run generate`
 
-Email the generated `paul_graham_essays.epub` file to your Kindle email address as an attachment.
+Either email the generated `paul_graham_essays.epub` file to your Kindle email address as an attachment OR send to your kindle from [amazon.com/sendtokindle](https://www.amazon.com/sendtokindle).
 
 ## How to find Kindle email address
 
